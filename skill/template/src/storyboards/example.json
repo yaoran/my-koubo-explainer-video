@@ -1,0 +1,547 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration": 67.4,
+  "theme": "lime",
+  "brand": {
+    "topLeft": "SKY / AI TWIN SYSTEM",
+    "topRight": "PERSONAL IP · 2026",
+    "talkLabel": "SKY 陈天 · AI 分身",
+    "talkBadge": "AI TWIN / ONLINE",
+    "voiceLabel": "VOICE /"
+  },
+  "talk": {
+    "src": "",
+    "objectPosition": "50% 50%"
+  },
+  "captions": [
+    {
+      "start": 0.62,
+      "end": 2.92,
+      "text": "现在跟你说话的，不是真人陈天。"
+    },
+    {
+      "start": 2.92,
+      "end": 7.42,
+      "text": "这条视频，从文案、声音到画面，全部由 AI 生成。"
+    },
+    {
+      "start": 7.42,
+      "end": 11.42,
+      "text": "我是 AI 陈天。你可以把我理解成，另一个陈天。"
+    },
+    {
+      "start": 11.42,
+      "end": 16.75,
+      "text": "每天，一套定时任务会把真人陈天的所见所闻、知识库、录音灵感，"
+    },
+    {
+      "start": 16.75,
+      "end": 22.25,
+      "text": "加上 AI 筛选出的热点，全部送进我的内容系统。"
+    },
+    {
+      "start": 22.25,
+      "end": 26.75,
+      "text": "我会从中挑出 5 个最值得分享的话题，再把它们做成视频。"
+    },
+    {
+      "start": 26.75,
+      "end": 29.25,
+      "text": "接下来，我主要分享两件事。"
+    },
+    {
+      "start": 29.25,
+      "end": 32.33,
+      "text": "第一，AI 怎么真正用进工作和业务。"
+    },
+    {
+      "start": 32.33,
+      "end": 38.25,
+      "text": "第二，GEO，也就是怎么让品牌在各类 AI 里被看见、被理解、被推荐。"
+    },
+    {
+      "start": 38.25,
+      "end": 40.8,
+      "text": "这也是陈天现在最重要的事业。"
+    },
+    {
+      "start": 40.8,
+      "end": 44.92,
+      "text": "这个想法，受到了余一老师的启发。"
+    },
+    {
+      "start": 44.92,
+      "end": 47.12,
+      "text": "我们想做的，不只是一个数字人，"
+    },
+    {
+      "start": 47.12,
+      "end": 50.33,
+      "text": "而是一个能够持续学习、持续输出的 AI 分身。"
+    },
+    {
+      "start": 50.33,
+      "end": 53.33,
+      "text": "以后，真人陈天负责继续实践，"
+    },
+    {
+      "start": 53.33,
+      "end": 58.5,
+      "text": "我负责把他的经验、判断和方法及时讲出来。"
+    },
+    {
+      "start": 58.5,
+      "end": 61.25,
+      "text": "就算他没空拍视频，分享也不会停。"
+    },
+    {
+      "start": 61.25,
+      "end": 62.62,
+      "text": "我是 AI 陈天。"
+    },
+    {
+      "start": 62.62,
+      "end": 67.4,
+      "text": "关注我，一起研究 AI，搞懂 GEO，把 AI 真正变成业务增长的一部分。"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0.2,
+      "end": 10.83,
+      "eyebrow": {
+        "en": "IDENTITY CHECK",
+        "zh": "身份验证"
+      },
+      "title": [
+        "现在跟你说话的，",
+        "**不是真人陈天**"
+      ],
+      "titleSize": "xl",
+      "watermark": "AI BORN",
+      "rows": [
+        {
+          "height": 194,
+          "gap": 26,
+          "items": [
+            {
+              "kind": "card",
+              "tone": "dark",
+              "flex": 358,
+              "at": 1.0,
+              "label": "LIVE SUBJECT",
+              "title": "AI 陈天",
+              "titleSize": 54,
+              "titleAccent": true
+            },
+            {
+              "kind": "cells",
+              "flex": 438,
+              "at": 0.4,
+              "items": [
+                {
+                  "label": "01 / SCRIPT",
+                  "text": "文案",
+                  "at": 1.3,
+                  "pulses": [
+                    [
+                      4.08,
+                      5.15
+                    ],
+                    [
+                      5.5
+                    ]
+                  ]
+                },
+                {
+                  "label": "02 / VOICE",
+                  "text": "声音",
+                  "at": 1.42,
+                  "pulses": [
+                    [
+                      4.25,
+                      5.0
+                    ],
+                    [
+                      5.67
+                    ]
+                  ]
+                },
+                {
+                  "label": "03 / VISUAL",
+                  "text": "画面",
+                  "at": 1.58,
+                  "pulses": [
+                    [
+                      4.42,
+                      4.85
+                    ],
+                    [
+                      5.83
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 10.83,
+      "end": 24.29,
+      "eyebrow": {
+        "en": "ANOTHER CHEN TIAN",
+        "zh": "另一个陈天"
+      },
+      "title": [
+        "每天，真人陈天的一切输入，都会",
+        "进入==内容系统=="
+      ],
+      "titleSize": "lg",
+      "watermark": "INPUT",
+      "rows": [
+        {
+          "height": 261,
+          "items": [
+            {
+              "kind": "list",
+              "flex": 386,
+              "items": [
+                {
+                  "tag": "INPUT 01",
+                  "text": "所见所闻",
+                  "at": 11.5
+                },
+                {
+                  "tag": "INPUT 02",
+                  "text": "知识库",
+                  "at": 11.65
+                },
+                {
+                  "tag": "INPUT 03",
+                  "text": "录音灵感",
+                  "at": 11.77
+                },
+                {
+                  "tag": "INPUT 04",
+                  "text": "AI 热点",
+                  "at": 11.88
+                }
+              ]
+            },
+            {
+              "kind": "arrow",
+              "width": 120,
+              "at": 12.17
+            },
+            {
+              "kind": "card",
+              "tone": "dark",
+              "flex": 347,
+              "at": 12.2,
+              "label": "AI CONTENT SYSTEM",
+              "title": "持续吸收\n持续处理",
+              "titleSize": 50,
+              "progress": [
+                12.35,
+                12.4,
+                12.45,
+                17.08,
+                21.33
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 24.29,
+      "end": 31.75,
+      "eyebrow": {
+        "en": "DAILY TOPIC ENGINE",
+        "zh": "每日选题"
+      },
+      "title": [
+        "每天挑出 **5 个**最值得分享的话题"
+      ],
+      "titleSize": "lg",
+      "watermark": "TOP 05",
+      "rows": [
+        {
+          "height": 278,
+          "gap": 36,
+          "items": [
+            {
+              "kind": "stat",
+              "width": 248,
+              "at": 25.0,
+              "label": "SELECTED TODAY",
+              "value": "05"
+            },
+            {
+              "kind": "list",
+              "tagColor": "ink",
+              "textSize": 27,
+              "at": 25.21,
+              "items": [
+                {
+                  "tag": "01",
+                  "text": "真实实践",
+                  "status": "READY"
+                },
+                {
+                  "tag": "02",
+                  "text": "业务判断",
+                  "status": "READY"
+                },
+                {
+                  "tag": "03",
+                  "text": "AI 新变化",
+                  "status": "READY"
+                },
+                {
+                  "tag": "04",
+                  "text": "GEO 方法",
+                  "status": "READY"
+                },
+                {
+                  "tag": "05",
+                  "text": "值得分享的灵感",
+                  "status": "READY"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31.75,
+      "end": 40.54,
+      "eyebrow": {
+        "en": "TWO MAIN TRACKS",
+        "zh": "两条主线"
+      },
+      "title": [
+        "接下来，我主要分享两件事"
+      ],
+      "titleSize": "lg",
+      "watermark": "AI × GEO",
+      "rows": [
+        {
+          "height": 298,
+          "gap": 22,
+          "items": [
+            {
+              "kind": "card",
+              "tone": "dark",
+              "at": 32.46,
+              "label": "01 / AI IN BUSINESS",
+              "labelSize": 21,
+              "subSize": 27,
+              "title": "AI 怎么真正用进工作\n和业务",
+              "titleSize": 55,
+              "sub": "不只演示，更关注真实流程与结果。"
+            },
+            {
+              "kind": "card",
+              "tone": "light",
+              "at": 32.75,
+              "label": "02 / GEO",
+              "labelSize": 21,
+              "subSize": 27,
+              "title": "让品牌在各类 AI 里\n被看见",
+              "titleSize": 55,
+              "sub": "被理解 · 被推荐 · 成为答案",
+              "pulses": [
+                [
+                  35.1,
+                  35.5
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 40.54,
+      "end": 49.08,
+      "eyebrow": {
+        "en": "BEYOND AVATAR",
+        "zh": "不止数字人"
+      },
+      "title": [
+        "我们想做的，是一个==AI 分身=="
+      ],
+      "titleSize": "xl",
+      "watermark": "TWIN",
+      "rows": [
+        {
+          "height": 123,
+          "gap": 22,
+          "items": [
+            {
+              "kind": "pill",
+              "at": 41.2,
+              "label": "01 / LEARN",
+              "text": "持续学习",
+              "pulses": [
+                [
+                  45.95,
+                  46.75
+                ],
+                [
+                  47.2,
+                  47.9
+                ]
+              ]
+            },
+            {
+              "kind": "pill",
+              "at": 41.4,
+              "label": "02 / OUTPUT",
+              "text": "持续输出",
+              "pulses": [
+                [
+                  46.25,
+                  46.7
+                ],
+                [
+                  47.4,
+                  47.9
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "height": 95,
+          "mt": 28,
+          "items": [
+            {
+              "kind": "meta",
+              "at": 41.65,
+              "label": "IDEA INSPIRED BY",
+              "tag": "余一老师"
+            }
+          ]
+        }
+      ],
+      "transition": "wipe"
+    },
+    {
+      "start": 49.08,
+      "end": 58.29,
+      "eyebrow": {
+        "en": "ROLE DIVISION",
+        "zh": "真人与分身"
+      },
+      "title": [
+        "真人继续实践，AI 分身及时讲出来"
+      ],
+      "titleSize": "lg",
+      "watermark": "SYNC",
+      "rows": [
+        {
+          "height": 285,
+          "items": [
+            {
+              "kind": "card",
+              "tone": "light",
+              "flex": 347,
+              "at": 49.85,
+              "label": "REAL CHEN TIAN",
+              "title": "继续实践",
+              "titleSize": 47,
+              "sub": "所见所闻 · 经验 · 判断"
+            },
+            {
+              "kind": "arrow",
+              "width": 177,
+              "at": 50.12,
+              "top": "SYNC",
+              "bottom": "METHOD"
+            },
+            {
+              "kind": "card",
+              "tone": "dark",
+              "flex": 347,
+              "at": 50.25,
+              "label": "AI CHEN TIAN",
+              "title": "及时输出",
+              "titleSize": 47,
+              "sub": "经验 · 判断 · 方法"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "start": 58.29,
+      "end": 67.4,
+      "eyebrow": {
+        "en": "ALWAYS ON",
+        "zh": "持续分享"
+      },
+      "title": [
+        "就算真人没空拍，",
+        "**分享也不会停**"
+      ],
+      "titleSize": "xl",
+      "watermark": "FOLLOW",
+      "rows": [
+        {
+          "mt": 26,
+          "items": [
+            {
+              "kind": "text",
+              "at": 59.05,
+              "text": "我是 AI 陈天。关注我，一起把 AI 真正变成业务增长的一部分。"
+            }
+          ]
+        },
+        {
+          "height": 129,
+          "gap": 20,
+          "mt": 26,
+          "items": [
+            {
+              "kind": "button",
+              "at": 59.4,
+              "text": "研究 AI",
+              "activeAt": 63.55
+            },
+            {
+              "kind": "button",
+              "at": 59.57,
+              "text": "搞懂 GEO",
+              "activeAt": 63.72
+            },
+            {
+              "kind": "button",
+              "at": 59.75,
+              "text": "业务增长",
+              "activeAt": 63.9
+            }
+          ]
+        },
+        {
+          "height": 83,
+          "mt": 28,
+          "items": [
+            {
+              "kind": "bar",
+              "at": 60.12,
+              "left": "关注 SKY 陈天",
+              "right": "AI TWIN / CONTINUOUS OUTPUT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
